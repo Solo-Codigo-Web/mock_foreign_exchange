@@ -1,0 +1,1 @@
+API_FOREIGN_EXCHANGE = "https://api.exchangerate-api.com/v4/latest"
